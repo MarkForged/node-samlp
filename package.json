@@ -20,12 +20,12 @@
   "license": "mit",
   "dependencies": {
     "@auth0/thumbprint": "0.0.6",
+    "@auth0/xmldom": "0.1.21",
     "ejs": "2.5.5",
     "flowstate": "^0.4.0",
     "querystring": "^0.2.0",
     "saml": "^0.14",
     "xml-crypto": "^0.10.1",
-    "xmldom": "git+ssh://github.com/auth0/xmldom.git#v0.1.19-auth0_1",
     "xpath": "0.0.5",
     "xtend": "^1.0.3"
   },
