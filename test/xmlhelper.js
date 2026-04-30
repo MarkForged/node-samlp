@@ -1,5 +1,5 @@
 var xmlCrypto = require('xml-crypto');
-var xmldom = require('@auth0/xmldom');
+var xmldom = require('@xmldom/xmldom');
 
 exports.verifySignature = function(assertion, cert) {
   try {

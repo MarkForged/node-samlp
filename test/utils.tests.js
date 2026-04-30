@@ -1,5 +1,5 @@
 const timekeeper = require("timekeeper");
-const DOMParser = require("@auth0/xmldom").DOMParser;
+const DOMParser = require("@xmldom/xmldom").DOMParser;
 const expect = require("chai").expect;
 
 const utils = require("../lib/utils");
