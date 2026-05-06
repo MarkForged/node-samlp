@@ -50,7 +50,7 @@
     "express-session": "^1.14.2",
     "husky": "^9.1.7",
     "istanbul": "^0.4.5",
-    "mocha": "~8.2.1",
+    "mocha": "~11.7.5",
     "request": "~2.88.0",
     "semantic-release": "^25.0.2",
     "timekeeper": "^2.2.0",
